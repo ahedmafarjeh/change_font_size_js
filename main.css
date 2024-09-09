@@ -1,0 +1,24 @@
+
+.increase_font{
+  font-size: 35px;
+}
+.decrease_font{
+ font-size: 12px;
+}
+
+.increase_size_btn{
+  padding: 3px 30px;
+  background-color: rgb(112, 180, 112);
+  border-radius: 5px;
+  color: azure;
+  font-size: 20px;
+  border: 1px solid rgb(112, 180, 112);
+}
+.decrease_size_btn{
+  padding: 3px 30px;
+  background-color: rgb(198, 116, 116);
+  border-radius: 5px;
+  color: azure;
+  font-size: 20px;
+  border: 1px solid rgb(198, 116, 116);
+}
